@@ -1,0 +1,12 @@
+C:\Users\Deca\source\repos\favlist-ps-user-management-service\AuthenticationService\AuthenticationServiceImp\obj\Debug\net6.0\AuthenticationServiceImp.csproj.AssemblyReference.cache
+C:\Users\Deca\source\repos\favlist-ps-user-management-service\AuthenticationService\AuthenticationServiceImp\obj\Debug\net6.0\AuthenticationServiceImp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deca\source\repos\favlist-ps-user-management-service\AuthenticationService\AuthenticationServiceImp\obj\Debug\net6.0\AuthenticationServiceImp.AssemblyInfoInputs.cache
+C:\Users\Deca\source\repos\favlist-ps-user-management-service\AuthenticationService\AuthenticationServiceImp\obj\Debug\net6.0\AuthenticationServiceImp.AssemblyInfo.cs
+C:\Users\Deca\source\repos\favlist-ps-user-management-service\AuthenticationService\AuthenticationServiceImp\obj\Debug\net6.0\AuthenticationServiceImp.csproj.CoreCompileInputs.cache
+C:\Users\Deca\source\repos\favlist-ps-user-management-service\AuthenticationService\AuthenticationServiceImp\bin\Debug\net6.0\AuthenticationServiceImp.deps.json
+C:\Users\Deca\source\repos\favlist-ps-user-management-service\AuthenticationService\AuthenticationServiceImp\bin\Debug\net6.0\AuthenticationServiceImp.dll
+C:\Users\Deca\source\repos\favlist-ps-user-management-service\AuthenticationService\AuthenticationServiceImp\bin\Debug\net6.0\AuthenticationServiceImp.pdb
+C:\Users\Deca\source\repos\favlist-ps-user-management-service\AuthenticationService\AuthenticationServiceImp\obj\Debug\net6.0\AuthenticationServiceImp.dll
+C:\Users\Deca\source\repos\favlist-ps-user-management-service\AuthenticationService\AuthenticationServiceImp\obj\Debug\net6.0\refint\AuthenticationServiceImp.dll
+C:\Users\Deca\source\repos\favlist-ps-user-management-service\AuthenticationService\AuthenticationServiceImp\obj\Debug\net6.0\AuthenticationServiceImp.pdb
+C:\Users\Deca\source\repos\favlist-ps-user-management-service\AuthenticationService\AuthenticationServiceImp\obj\Debug\net6.0\ref\AuthenticationServiceImp.dll
