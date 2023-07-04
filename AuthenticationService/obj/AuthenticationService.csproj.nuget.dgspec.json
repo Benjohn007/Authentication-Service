@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Deca\\source\\repos\\favlist-ps-user-management-service\\AuthenticationService\\AuthenticationService\\AuthenticationService.csproj": {}
+    "C:\\Users\\Deca\\source\\repos\\Authentication-Service\\AuthenticationService\\AuthenticationService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Deca\\source\\repos\\favlist-ps-user-management-service\\AuthenticationService\\AuthenticationServiceImp\\AuthenticationServiceImp.csproj": {
+    "C:\\Users\\Deca\\source\\repos\\Authentication-Service\\AuthenticationServiceImp\\AuthenticationServiceImp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Deca\\source\\repos\\favlist-ps-user-management-service\\AuthenticationService\\AuthenticationServiceImp\\AuthenticationServiceImp.csproj",
+        "projectUniqueName": "C:\\Users\\Deca\\source\\repos\\Authentication-Service\\AuthenticationServiceImp\\AuthenticationServiceImp.csproj",
         "projectName": "AuthenticationServiceImp",
-        "projectPath": "C:\\Users\\Deca\\source\\repos\\favlist-ps-user-management-service\\AuthenticationService\\AuthenticationServiceImp\\AuthenticationServiceImp.csproj",
+        "projectPath": "C:\\Users\\Deca\\source\\repos\\Authentication-Service\\AuthenticationServiceImp\\AuthenticationServiceImp.csproj",
         "packagesPath": "C:\\Users\\Deca\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Deca\\source\\repos\\favlist-ps-user-management-service\\AuthenticationService\\AuthenticationServiceImp\\obj\\",
+        "outputPath": "C:\\Users\\Deca\\Source\\Repos\\Authentication-Service\\AuthenticationServiceImp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\Deca\\source\\repos\\favlist-ps-user-management-service\\AuthenticationService\\AuthenticationService\\AuthenticationService.csproj": {
+    "C:\\Users\\Deca\\source\\repos\\Authentication-Service\\AuthenticationService\\AuthenticationService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Deca\\source\\repos\\favlist-ps-user-management-service\\AuthenticationService\\AuthenticationService\\AuthenticationService.csproj",
+        "projectUniqueName": "C:\\Users\\Deca\\source\\repos\\Authentication-Service\\AuthenticationService\\AuthenticationService.csproj",
         "projectName": "AuthenticationService",
-        "projectPath": "C:\\Users\\Deca\\source\\repos\\favlist-ps-user-management-service\\AuthenticationService\\AuthenticationService\\AuthenticationService.csproj",
+        "projectPath": "C:\\Users\\Deca\\source\\repos\\Authentication-Service\\AuthenticationService\\AuthenticationService.csproj",
         "packagesPath": "C:\\Users\\Deca\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Deca\\source\\repos\\favlist-ps-user-management-service\\AuthenticationService\\AuthenticationService\\obj\\",
+        "outputPath": "C:\\Users\\Deca\\source\\repos\\Authentication-Service\\AuthenticationService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -97,8 +97,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Deca\\source\\repos\\favlist-ps-user-management-service\\AuthenticationService\\AuthenticationServiceImp\\AuthenticationServiceImp.csproj": {
-                "projectPath": "C:\\Users\\Deca\\source\\repos\\favlist-ps-user-management-service\\AuthenticationService\\AuthenticationServiceImp\\AuthenticationServiceImp.csproj"
+              "C:\\Users\\Deca\\source\\repos\\Authentication-Service\\AuthenticationServiceImp\\AuthenticationServiceImp.csproj": {
+                "projectPath": "C:\\Users\\Deca\\source\\repos\\Authentication-Service\\AuthenticationServiceImp\\AuthenticationServiceImp.csproj"
               }
             }
           }

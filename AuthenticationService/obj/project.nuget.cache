@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J6iBpVLj9TmNS1JgNflT0SPEaWkomYw8h7XZ57LMd797Q5ppGwZAQ9SvxtEkNsCfO0LVyOL8krgWtm3M4jAGcA==",
+  "dgSpecHash": "04gPpVi1+9GdhaoB7CdgsXFVpiS03PkFB5ffWNoOIR+NR5WKkRC0alRLB/gUxDnMzVWby+oXDQDdfNmlGCGvFA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Deca\\source\\repos\\favlist-ps-user-management-service\\AuthenticationService\\AuthenticationService\\AuthenticationService.csproj",
+  "projectFilePath": "C:\\Users\\Deca\\source\\repos\\Authentication-Service\\AuthenticationService\\AuthenticationService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Deca\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Deca\\.nuget\\packages\\mailkit\\3.2.0\\mailkit.3.2.0.nupkg.sha512",

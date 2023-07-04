@@ -1,0 +1,12 @@
+C:\Users\Deca\source\repos\Authentication-Service\AuthenticationServiceImp\bin\Release\net6.0\AuthenticationServiceImp.deps.json
+C:\Users\Deca\source\repos\Authentication-Service\AuthenticationServiceImp\bin\Release\net6.0\AuthenticationServiceImp.dll
+C:\Users\Deca\source\repos\Authentication-Service\AuthenticationServiceImp\bin\Release\net6.0\AuthenticationServiceImp.pdb
+C:\Users\Deca\source\repos\Authentication-Service\AuthenticationServiceImp\obj\Release\net6.0\AuthenticationServiceImp.csproj.AssemblyReference.cache
+C:\Users\Deca\source\repos\Authentication-Service\AuthenticationServiceImp\obj\Release\net6.0\AuthenticationServiceImp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deca\source\repos\Authentication-Service\AuthenticationServiceImp\obj\Release\net6.0\AuthenticationServiceImp.AssemblyInfoInputs.cache
+C:\Users\Deca\source\repos\Authentication-Service\AuthenticationServiceImp\obj\Release\net6.0\AuthenticationServiceImp.AssemblyInfo.cs
+C:\Users\Deca\source\repos\Authentication-Service\AuthenticationServiceImp\obj\Release\net6.0\AuthenticationServiceImp.csproj.CoreCompileInputs.cache
+C:\Users\Deca\source\repos\Authentication-Service\AuthenticationServiceImp\obj\Release\net6.0\AuthenticationServiceImp.dll
+C:\Users\Deca\source\repos\Authentication-Service\AuthenticationServiceImp\obj\Release\net6.0\refint\AuthenticationServiceImp.dll
+C:\Users\Deca\source\repos\Authentication-Service\AuthenticationServiceImp\obj\Release\net6.0\AuthenticationServiceImp.pdb
+C:\Users\Deca\source\repos\Authentication-Service\AuthenticationServiceImp\obj\Release\net6.0\ref\AuthenticationServiceImp.dll

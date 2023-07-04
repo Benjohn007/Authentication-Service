@@ -404,11 +404,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Deca\\source\\repos\\favlist-ps-user-management-service\\AuthenticationService\\AuthenticationServiceImp\\AuthenticationServiceImp.csproj",
+      "projectUniqueName": "C:\\Users\\Deca\\Source\\Repos\\Authentication-Service\\AuthenticationServiceImp\\AuthenticationServiceImp.csproj",
       "projectName": "AuthenticationServiceImp",
-      "projectPath": "C:\\Users\\Deca\\source\\repos\\favlist-ps-user-management-service\\AuthenticationService\\AuthenticationServiceImp\\AuthenticationServiceImp.csproj",
+      "projectPath": "C:\\Users\\Deca\\Source\\Repos\\Authentication-Service\\AuthenticationServiceImp\\AuthenticationServiceImp.csproj",
       "packagesPath": "C:\\Users\\Deca\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Deca\\source\\repos\\favlist-ps-user-management-service\\AuthenticationService\\AuthenticationServiceImp\\obj\\",
+      "outputPath": "C:\\Users\\Deca\\Source\\Repos\\Authentication-Service\\AuthenticationServiceImp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

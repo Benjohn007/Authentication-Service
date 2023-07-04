@@ -1,0 +1,15 @@
+C:\Users\Deca\source\repos\Authentication-Service\DelegateConsole\bin\Debug\net6.0\DelegateConsole.exe
+C:\Users\Deca\source\repos\Authentication-Service\DelegateConsole\bin\Debug\net6.0\DelegateConsole.deps.json
+C:\Users\Deca\source\repos\Authentication-Service\DelegateConsole\bin\Debug\net6.0\DelegateConsole.runtimeconfig.json
+C:\Users\Deca\source\repos\Authentication-Service\DelegateConsole\bin\Debug\net6.0\DelegateConsole.dll
+C:\Users\Deca\source\repos\Authentication-Service\DelegateConsole\bin\Debug\net6.0\DelegateConsole.pdb
+C:\Users\Deca\source\repos\Authentication-Service\DelegateConsole\obj\Debug\net6.0\DelegateConsole.csproj.AssemblyReference.cache
+C:\Users\Deca\source\repos\Authentication-Service\DelegateConsole\obj\Debug\net6.0\DelegateConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deca\source\repos\Authentication-Service\DelegateConsole\obj\Debug\net6.0\DelegateConsole.AssemblyInfoInputs.cache
+C:\Users\Deca\source\repos\Authentication-Service\DelegateConsole\obj\Debug\net6.0\DelegateConsole.AssemblyInfo.cs
+C:\Users\Deca\source\repos\Authentication-Service\DelegateConsole\obj\Debug\net6.0\DelegateConsole.csproj.CoreCompileInputs.cache
+C:\Users\Deca\source\repos\Authentication-Service\DelegateConsole\obj\Debug\net6.0\DelegateConsole.dll
+C:\Users\Deca\source\repos\Authentication-Service\DelegateConsole\obj\Debug\net6.0\refint\DelegateConsole.dll
+C:\Users\Deca\source\repos\Authentication-Service\DelegateConsole\obj\Debug\net6.0\DelegateConsole.pdb
+C:\Users\Deca\source\repos\Authentication-Service\DelegateConsole\obj\Debug\net6.0\DelegateConsole.genruntimeconfig.cache
+C:\Users\Deca\source\repos\Authentication-Service\DelegateConsole\obj\Debug\net6.0\ref\DelegateConsole.dll
